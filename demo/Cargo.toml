@@ -1,0 +1,9 @@
+[package]
+name = "demo"
+version = "0.1.0"
+authors = ["Hamza <muhammadhamza1311@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+yew-md = { path = ".." }
+yew = "0.17"

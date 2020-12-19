@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/demo/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo/target/debug/build/anyhow-149ce8ad9e28d51d/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo/target/debug/build/bitflags-98f0261e6b370872/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo/target/debug/build/byteorder-47c7466c24a20ca1/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo/target/debug/build/indexmap-ada9dd32e3f61eed/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo/target/debug/build/log-a95eab9785ed87c1/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo/target/debug/build/memchr-9853efb4e434851e/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo/target/debug/build/proc-macro-hack-b491efd98f39930b/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo/target/debug/build/proc-macro-nested-f0db876119b0212d/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo/target/debug/build/proc-macro2-ac4e0e96bb15765d/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo/target/debug/build/pulldown-cmark-3bdfc62a539f7905/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo/target/debug/build/ryu-53992b4ab5fb0bb8/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo/target/debug/build/serde-73822a0321e17ecc/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo/target/debug/build/serde_derive-d9201988a0555f46/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo/target/debug/build/serde_json-6394cd1277fe2191/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo/target/debug/build/syn-edbf66b5117f12a6/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo/target/debug/build/unicase-db56205008c91fd0/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo/target/debug/build/wasm-bindgen-e21f580751ec92fd/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo/target/debug/build/wasm-bindgen-shared-cc011d6ce9092586/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo/target/debug/build/yew-2547d046882d634f/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/debug/build/anyhow-149ce8ad9e28d51d/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/debug/build/bitflags-98f0261e6b370872/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/debug/build/byteorder-47c7466c24a20ca1/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/debug/build/indexmap-ada9dd32e3f61eed/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/debug/build/log-a95eab9785ed87c1/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/debug/build/memchr-9853efb4e434851e/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/debug/build/proc-macro-hack-b491efd98f39930b/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/debug/build/proc-macro-nested-f0db876119b0212d/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/debug/build/proc-macro2-ac4e0e96bb15765d/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/debug/build/pulldown-cmark-3bdfc62a539f7905/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/debug/build/ryu-53992b4ab5fb0bb8/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/debug/build/serde-73822a0321e17ecc/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/debug/build/serde_derive-d9201988a0555f46/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/debug/build/serde_json-6394cd1277fe2191/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/debug/build/syn-edbf66b5117f12a6/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/debug/build/unicase-db56205008c91fd0/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/debug/build/wasm-bindgen-e21f580751ec92fd/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/debug/build/wasm-bindgen-shared-cc011d6ce9092586/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/debug/build/yew-2547d046882d634f/out" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+      <excludeFolder url="file://$MODULE_DIR$/demo/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
